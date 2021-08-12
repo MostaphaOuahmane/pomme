@@ -1,0 +1,39 @@
+
+        body {
+            margin: 10px 0;
+            padding: 0px;
+            background-color:#cf9;
+            /* font: 0.8em 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+            text-align: center;
+            font-family: 'Raleway', sans-serif;
+        }
+        main#container {
+            margin: 0 auto;
+            width: 770px;
+            background: #fff;
+            border: 2px solid #ab4;
+            text-align: left;
+        }
+        h1#header {
+            height: 250px;
+            margin: 0;
+            background: url(../img/apple.jpg) no-repeat left top;
+        }
+        #header a {
+            display: block;
+            position: relative;
+
+            top: 15px;
+            left: 350px;
+            text-indent: -5000px;
+            /* text-indent kat3ni ana lien kayn mais makdherch lnas */
+
+            width: 400px;
+            height: 70px;
+
+            background: url(../img/title.gif) no-repeat ;
+        }
+        footer {
+            height: 60px;
+            line-height: 60px;
+        }
